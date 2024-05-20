@@ -1,0 +1,41 @@
+<!main.css html>
+<html>
+<body>
+
+body {
+  background-color: blue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+ul {
+  list-style-type: none;
+  margin: 200px;
+  height: 600px;
+  width: 200px;
+  float: left;
+  padding: 5px;
+  line-height: 30px;
+}
+<footer>
+ul {
+  text-align: center;
+  margin-right: 200;
+}
+ #memeImage {
+  margin-right: 200px;
+}
+header {
+  text-align: center
+}
+</style>
+</head>
+<body>
