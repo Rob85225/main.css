@@ -1,6 +1,8 @@
 <!main.css html>
 <html>
 <body>
+header {
+  text-align: center
 
 body {
   background-color: blue;
@@ -33,8 +35,7 @@ ul {
  #memeImage {
   margin-right: 200px;
 }
-header {
-  text-align: center
+
 }
 </style>
 </head>
